@@ -1,5 +1,5 @@
-# Hola a todos!👋
-Mi nombre es Nahuel Banco
+# Hola a todos!
+Mi nombre es Nahuel Banco👋.
 
 ## ¿Quien soy?
 Soy un apasionado desarrolador web Full-Stack🤩.
@@ -26,7 +26,7 @@ Las principales tecnologías que más uso son:
 - PostgreSQL
 - MySQL
 - HTML, CSS
-Entre muchas otras más!
+- Entre muchas otras más!
 
 ## Datos de contacto
 - [LinkedIn](https://www.linkedin.com/in/nahuel-alejandro-banco-707ab7301/)
