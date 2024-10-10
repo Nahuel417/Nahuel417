@@ -1,29 +1,34 @@
 # Hola a todos!👋
+Mi nombre es Nahuel Banco
 
 ## ¿Quien soy?
-Mi nombre es Nahuel Banco, soy un apasionado desarrolador web Full-Stack 
+Soy un apasionado desarrolador web Full-Stack🤩.
 
 Desde que descubrí este mundo de la programación supe que era lo mío, no tengo preferencias ni por el back ni por el front, porque me gusta trabajar desde ambos lados😂. 
 Me considero una persona responsable y muy entusiasta, con muchas ganas de seguir aprendiendo cosas nuevas y profundizando mis conocimientos en busca de los mejores resultados💪. 
 
-## Conoce al equipo IT
-Somos Nahuel, Mirian, Alejandra, Joaquín y Trinidad, un grupo de cinco desarrolladores novatos con muchas ganas de aplicar lo que vamos aprendiendo, para brindarle un mejor servicio a nuestro cliente **DH Venture Capitals**.
+## ¿Que hago?
+Actualmente continúo realizando mis estudios que me permitan avanzar en mi formación como programador. Además estoy realizando proyectos en conjunto con otros desarrolladores para poder profundizar mis conocimientos y así brindar soluciones a ciertas necesidades gracias al código.  
 
-## Páginas de referencia
-- [Personal y Flow](https://www.personal.com.ar/)
-    Elegida por: Diseño de la página y su paleta de colores.
-- [Movistar](https://www.movistar.com.ar/)
-    Elegida por: Diseño del carrusel de productos y los íconos del menú.
-- [AMD](https://www.amd.com/es.html)
-    Elegida por: Diseño del carrusel de productos y su diseño minimalista.
-- [Apple](https://www.apple.com/)
-    Elegida por: Efectos en el despliegue de opciones del menú y su diseño minimalista.
-- [Samsung](https://www.samsung.com/ar/)
-    Elegida por: Disposición de elementos en la pantalla.
-- [Tienda del cafe](https://latiendadelcafe.co/)
-    Elegida por: Animaciones de la página y su originalidad.
-- [CompraGamer](https://compragamer.com/)
-    Elegidad por: Formulario del login y registro.
+## ¿A donde me dirijo?
+Mi objetivo principal es afianzarme en el mundo de la programación. 
 
-## Link al trello
-- [Trello](https://trello.com/b/WljNDTT4/sprintsgrupo-3)
+Lo que más me entusiasma de la programación es el poder solucionar problemas reales de las personas, esa es mi meta a cumplir. 
+
+## ¿Que tecnologías uso?
+Las principales tecnologías que más uso son: 
+- Javascript
+- Typescript
+- NestJS
+- React.js
+- Node.js
+- Express.js
+- PostgreSQL
+- MySQL
+- HTML, CSS
+Entre muchas otras más!
+
+## Datos de contacto
+- [LinkedIn](https://www.linkedin.com/in/nahuel-alejandro-banco-707ab7301/)
+- Mail: banconahuel417@gmail.com
+
