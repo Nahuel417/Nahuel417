@@ -8,7 +8,7 @@ Desde que descubrí este mundo de la programación supe que era lo mío, no teng
 Me considero una persona responsable y muy entusiasta, con muchas ganas de seguir aprendiendo cosas nuevas y profundizando mis conocimientos en busca de los mejores resultados💪. 
 
 ## ¿Que hago?
-Actualmente continúo realizando mis estudios que me permitan avanzar en mi formación como programador. Además estoy realizando proyectos en conjunto con otros desarrolladores para poder profundizar mis conocimientos y así brindar soluciones a ciertas necesidades gracias al código.  
+Actualmente continúo realizando mis estudios que me permitan avanzar en mi formación como programador. Además estoy realizando proyectos en conjunto con otros desarrolladores para poder profundizar mis conocimientos y así brindar soluciones a ciertas necesidades mediante el código.  
 
 ## ¿A donde me dirijo?
 Mi objetivo principal es afianzarme en el mundo de la programación. 
