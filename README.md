@@ -21,6 +21,7 @@ Las principales tecnologías que más uso son:
 - Typescript
 - NestJS
 - React.js
+- NextJS
 - Node.js
 - Express.js
 - PostgreSQL
