@@ -30,6 +30,6 @@ Lo que más me entusiasma de la programación es el poder solucionar problemas r
 - Entre muchas otras más!
 
 ## Datos de contacto 📬
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nahuel-alejandro-banco-707ab7301/)
+- LinkedIn: [Mi Perfil](https://www.linkedin.com/in/nahuel-alejandro-banco-707ab7301/)
 - Mail: banconahuel417@gmail.com
 
