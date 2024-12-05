@@ -8,7 +8,7 @@
 Me considero una persona responsable y muy entusiasta, con muchas ganas de seguir aprendiendo cosas nuevas y profundizando mis conocimientos en busca de los mejores resultados💪. 
 
 ## ¿Que hago?
-📚 Actualmente continúo realizando mis estudios que me permitan avanzar en mi formación como programador, tambien estudio Project Management en Coursera para ampliar mis habilidades y comprender mejor la gestión de proyectos en tecnología.
+📚 Actualmente continúo realizando mis estudios que me permitan avanzar en mi formación como programador, tambien me encuentro estudiando para Project Management en Coursera asi poder ampliar mis habilidades y comprender mejor la gestión de proyectos en tecnología.
 Ademas de realizar proyectos en conjunto con otros desarrolladores para poder profundizar mis conocimientos y así brindar soluciones a ciertas necesidades mediante el código.  
 
 ## ¿A donde me dirijo?
