@@ -2,7 +2,7 @@
 👋 Mi nombre es Nahuel Banco.
 
 ## ¿Quien soy?
-🤩 Soy un apasionado desarrolador web Full-Stack.
+🤩 Soy un apasionado Desarrolador Web Full-Stack.
 
 🚀 Desde que descubrí este mundo de la programación supe que era lo mío, no tengo preferencias ni por el back ni por el front, porque me gusta trabajar desde ambos lados😂. 
 Me considero una persona responsable y muy entusiasta, con muchas ganas de seguir aprendiendo cosas nuevas y profundizando mis conocimientos en busca de los mejores resultados💪. 
