@@ -5,15 +5,11 @@
 🤩 Soy un apasionado Desarrolador Web Full-Stack.
 
 🚀 Desde que descubrí este mundo de la programación supe que era lo mío, no tengo preferencias ni por el back ni por el front, porque me gusta trabajar desde ambos lados😂. 
-Me considero una persona responsable y muy entusiasta, con muchas ganas de seguir aprendiendo cosas nuevas y profundizando mis conocimientos en busca de los mejores resultados💪. 
-
-## ¿Que hago?
-📚 Actualmente continúo realizando mis estudios que me permitan avanzar en mi formación como programador, tambien me encuentro estudiando para Project Management en Coursera asi poder ampliar mis habilidades y comprender mejor la gestión de proyectos en tecnología.
-Ademas de realizar proyectos en conjunto con otros desarrolladores para poder profundizar mis conocimientos y así brindar soluciones a ciertas necesidades mediante el código.  
+Me considero una persona responsable y muy entusiasta, con muchas ganas de seguir aprendiendo cosas nuevas y profundizando mis conocimientos en busca de los mejores resultados💪.  
 
 ## ¿A donde me dirijo?
 🎯 Mi objetivo principal es afianzarme en el mundo de la programación. 
-Lo que más me entusiasma de la programación es el poder solucionar problemas reales de las personas, esa es mi meta a cumplir. 
+Lo que más me entusiasma de la programación es el poder solucionar problemas reales, esa es mi meta a cumplir. 
 
 ## ¿Que tecnologías uso?
 💻 Las principales tecnologías que más uso son: 
